@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Bungee Shade', cursive;
+    font-weight: 300;
+}
+
+#intro {
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+#origami1 {
+    background: linear-gradient(to right, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+
+#contact_1 {
+    background: linear-gradient(to right, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+
+#contact_1 h3 {
+    display: inline;
+}
+
+#contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Handlee', cursive;
+}
+
+h3 {
+    font-family: 'Metal Mania', cursive;
+}
